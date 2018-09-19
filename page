@@ -1,0 +1,20 @@
+
+<html>
+ <title>
+   FIRST WEBSITE
+   </title>
+ 
+  <body>
+    <h1> Welcome to my website 
+          How can i help u?</h1>
+    </body>
+ 
+  <style>
+    body{
+       background-color:green;
+       color:#fff:
+       text-allign:center;
+   }
+  </style>
+ 
+</html>
